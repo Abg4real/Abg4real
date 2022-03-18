@@ -17,7 +17,7 @@
 </div>
 
 ### My Github stats 🌟
-<img src="https://github-readme-stats.vercel.app/api?username=Praful932&count_private=true&show_icons=true&include_all_commits=true" alt="My Github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abg4real&count_private=true&show_icons=true&include_all_commits=true" alt="My Github stats" />
 
 ### Connect with me 🤝🏻
 
