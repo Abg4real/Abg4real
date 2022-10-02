@@ -2,9 +2,9 @@
 
 ### About me
 - 💙 to build fun and interactive web apps
-- 📚 Bookworm
-- 🏢 Intern at [Scalereal](https://scalereal.com/)
-- 🧑🏽‍🎓 Final Year IT Undergraduate Student at DYPCOE
+- 📚 Bookworm and tv show/movie gossiper
+- 🏢 SDE at [Scalereal](https://scalereal.com/)
+- 🧑🏽‍🎓 IT Undergraduate from DYPCOE
 - 🌐 Read my blogs at [Medium](https://medium.com/@abhishekghadge11)
 
 ### Tools I work with ⚒️
